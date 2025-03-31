@@ -1,4 +1,4 @@
-![lance-freelancer-portfolio-template](assets/images/1574474686-molla.jpg)
+![lance-freelancer-portfolio-template](img/50096-lance.jpg)
 
 LANCE Freelance portfolio template is a meticulously crafted design powered by the versatile Materialize CSS Framework. With its responsive layout and SEO-ready structure, this template ensures that your website looks great on any device while maximizing its visibility on search engines. Whether you're showcasing your portfolio or promoting your services, this template provides a solid foundation to build upon.
 
