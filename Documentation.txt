@@ -1,0 +1,75 @@
+========================================
+# LANCE - THE FREELANCE PORTFOLIO TEMPLATE
+========================================
+
+Welcome to the documentation for LANCE Freelance Portfolio template, your gateway to creating a stunning and professional website effortlessly. This guide is designed to assist you in understanding and customizing the template to suit your specific needs. Let's embark on a journey to elevate your online presence!
+
+    # INTRODUCTION
+--------------------------------
+
+LANCE Freelance portfolio template is a meticulously crafted design powered by the versatile Materialize CSS Framework. With its responsive layout and SEO-ready structure, this template ensures that your website looks great on any device while maximizing its visibility on search engines. Whether you're showcasing your portfolio or promoting your services, this template provides a solid foundation to build upon.
+
+     # KEY FEATURES
+--------------------------------
+
+- **Materialize CSS Framework**: Benefit from the robust styling and layout capabilities offered by Materialize CSS.
+- **Responsive Design**: Your website will adapt seamlessly to different screen sizes, providing an optimal viewing experience for your visitors.
+- **SEO Readiness**: Structured markup and meta tags are optimized for search engines, helping improve your site's visibility.
+- **Customization Options**: Tailor the look and feel of your website by adjusting fonts, colors, and more.
+- **Iconography**: Access a wide range of icons from Boxicons and Materialize Icons to enhance your site's visual appeal.
+- **Easy Integration**: CSS and JavaScript files are conveniently included in the HTML, simplifying the setup process.
+
+     # CUSTOMAZATION GUIDE
+----------------------------------------------
+
+Let's dive into the customization options available to you, empowering you to make this template truly your own.
+
+       # FONT AND COLORS
+-----------------------------------------
+
+Enhance the visual identity of your website by customizing fonts and colors to align with your brand. Simply navigate to the "style.css" file and modify the respective sections:
+
+- **Fonts**: Update the font family by editing line 1 in the "style.css" file.
+- **Colors**: Adjust the color palette by modifying lines 37 to 45 in the "style.css" file.
+
+         # ICONOGRAPHY
+-------------------------------------
+
+Inject personality into your website with captivating icons. Explore the diverse collections available from Boxicons and Materialize Icons:
+
+- **Boxicons**: Discover a plethora of icons at [Boxicons](https://boxicons.com).
+- **Materialize Icons**: Browse through Materialize Icons at [Materialize Icons](https://materializecss.com/icons.html).
+
+        # CONTACT INFORMATION
+------------------------------------------------
+
+Ensure that visitors can easily reach out to you by updating your contact details:
+
+- **Email Address**: Replace placeholders with your email address on lines 238, 706 and 711 in the "index.html" file, line 124 in the "project-page.html".
+- **Facebook Link**: Insert your Facebook profile link on line 715 in the "index.html" file.
+- **WhatsApp Number**: Provide your WhatsApp number on line 716 in the "index.html" file.
+
+      # PERSONALIZATION
+----------------------------------------
+
+Make the template reflect your unique identity:
+
+- **Typewrite Name**: Customize the typewritten text by editing line 3 of the "typewrite.js" file.
+- **Text Size**: Adjust the size of the typewritten text to suit your preferences by modifying line 443 in the "style.css" file.
+
+           # TIPS FOR SUCCESS
+-------------------------------------------------
+
+Here are some additional tips to ensure a smooth customization process:
+
+- **HTML Structure**: Maintain the integrity of the HTML structure and syntax while making changes.
+- **Testing**: Regularly test your website's responsiveness and functionality across various devices.
+- **Backup**: Always keep a backup of the original files before implementing significant modifications.
+
+For further assistance or inquiries, please don't hesitate to reach out to the template developer: Emese Nagy, email: support@emese.one .
+
+============================================================================================================
+
+Thank you for choosing the LANCE Freelance Portfolio template. We're excited to see the incredible website you'll create useing this template!
+
+============================================================================================================
